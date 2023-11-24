@@ -84,10 +84,7 @@ git commit -m “message”
 *Информацию об ангорских кошках можно увидеть по этой ссылке [Ангорские кошки](https://www.kp.ru/family/domashnie-zhivotnye/angorskaya-koshka/).*
 
 
-Для картинки указываем описание и вставляем ссылку на объект.
 
-```sh
-![Текст описания](https://s9.stc.all.kpcdn.net/family/wp-content/uploads/2022/05/angorskaya_koshka_oblogka_960-960x540.jpg)
-```
-![Ангорская кошка](https://s9.stc.all.kpcdn.net/family/wp-content/uploads/2022/05/angorskaya_koshka_oblogka_960-960x540.jpg)
+Чтобы вставить картинку в текст нужно написать:
+![Привет, это котик!](cats.png)
 
